@@ -1,0 +1,136 @@
+.body-container {
+    background-image: url(https://amharic4rastafari.files.wordpress.com/2018/10/amharic-alphabet-classiclg.jpg);
+    background-position: center;
+    backface-visibility: hidden;
+    margin-bottom: -20px;
+}
+
+.navbar-text {
+    font-size: 54px;
+    font-family: 'Akaya Telivigala', cursive;
+    font-weight:500; 
+    cursor: pointer;
+}
+
+.navbar-text h1 {
+    color: rgb(222, 33,11);
+}
+.navbar-text h4 {
+    color: red;
+}
+
+.nav-links {
+    color: blanchedalmond;
+}
+
+.navbar-brand {
+    cursor: pointer;
+}
+
+.navbar-text h4 {
+    text-align: center;
+    justify-content: center;
+}
+
+.main-container {
+    color: inherit;
+    text-align: center;
+}
+
+
+.video-container {
+    text-align: center;
+    padding-top: 20px;
+    width: 800px;
+    height: 730h;
+    margin:auto;
+    box-shadow: 20px 20px 40px black;
+    background-color:rgba(44, 46, 48, 0.8);
+    margin-top: 0px;
+    padding-bottom: 20px;
+    margin-bottom: 75px;
+}
+.video-container h3 {
+    font-family: 'Acme', sans-serif;
+    font-size: 40px;
+    font-weight: 500;
+    color:blanchedalmond;
+}
+.learn-container {
+    background-color: rgba(107,142,35,0.8);
+    margin-bottom: 0px;
+    box-shadow: 5px 10px 20px gray;
+    text-align: center;
+    width: 600px;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.learn-container h6 {
+    font-size: 24px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.curriculum-container {
+    background-color:rgba(255,195,80, 0.8);
+    text-align: center;
+    width: 700px;
+    box-shadow: 5px 10px 20px gray;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.curriculum-container h6 {
+    font-size: 24px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.meet-the-instructor {
+    background-color: rgba(255,65,10, 0.8);
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 10px 20px gray;
+    height: fit-content;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 25px;
+}
+
+.meet-the-instructor h5 {
+    font-size: 22px;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.footer-container {
+    background-color: rgb(255, 65,10);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 12px;
+    width: 100%;
+    margin-top: 30px;
+    height:max-content;
+    margin-top: 30px;
+}
+
+
+.copy-right {
+    text-align: center;
+    justify-content:space-evenly;
+    padding-bottom: 10px;
+    margin-bottom: auto;
+}
+
+.designed-by {
+    text-align: center;
+    padding-bottom: -10px;
+    height: max-content;
+    margin-bottom: auto;
+}
+
+.designed-by h6 a ::after :hover{
+    color: blanchedalmond;
+}
